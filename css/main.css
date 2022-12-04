@@ -131,6 +131,14 @@ body {
   border-radius: 20px;
 }
 
+.linux-img {
+    float: left;
+    display: block;
+    width: 150px;
+    height: 200px;
+    border-radius: 20px;
+}
+
 .kotlin-img {
   float: right;
   display: block;
@@ -147,4 +155,29 @@ body {
     margin-bottom: 1rem;
     margin-top: 1rem;
     border-radius: 20px;
+}
+
+.course-desc {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.course-desc-aft {
+  margin-top: 30px;
+}
+
+.course-video {
+  border-radius: 20px;
+}
+
+.course-title {
+  margin-top: 50px;
+}
+
+.video-code-text {
+    margin-top: 60px;
+}
+
+.next-lesson-btn {
+  margin-bottom: 60px;
 }
