@@ -123,6 +123,14 @@ body {
   margin-top: 100px;
 }
 
+.course-img {
+  float: left;
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+
 .kotlin-img {
   float: right;
   display: block;
@@ -130,4 +138,13 @@ body {
   height: 175px;
   margin-left: 350px;
   margin-bottom: 50px;
+  border-radius: 20px;
+}
+
+.course-card {
+    padding: 2rem;
+    border: 2px dashed #c98787;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    border-radius: 20px;
 }
