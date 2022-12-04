@@ -114,3 +114,20 @@ body {
 .cod-logo {
   border-radius: 20px;
 }
+
+.python-img {
+  float: left;
+  display: block;
+  width: 40%;
+  height: 30%;
+  margin-top: 100px;
+}
+
+.kotlin-img {
+  float: right;
+  display: block;
+  width: 25%;
+  height: 20%;
+  margin-left: 350px;
+  margin-bottom: 50px;
+}
