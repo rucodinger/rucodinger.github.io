@@ -181,3 +181,11 @@ body {
 .next-lesson-btn {
   margin-bottom: 60px;
 }
+
+.pyqt-img {
+  float: left;
+  display: block;
+  width: 225px;
+  height: 150px;
+  border-radius: 20px;
+}
