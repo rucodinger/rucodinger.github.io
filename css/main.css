@@ -2,6 +2,8 @@
  * Globals
  */
 
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 /* Links */
 a,
 a:focus,
@@ -188,4 +190,29 @@ body {
   width: 250px;
   height: 150px;
   border-radius: 20px;
+}
+
+.podpiska {
+  padding: 2rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  border: 2px solid #4d943e;
+  margin-bottom: 1rem;
+  margin-top: 5rem;
+  border-radius: 20px;
+}
+
+.podpiska-text {
+  font-family: 'Roboto', sans-serif;
+}
+
+.podpiska-link {
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  color: aquamarine;
+}
+
+.podpiska-link:hover {
+  opacity: 0.5;
+  color: aquamarine;
 }
